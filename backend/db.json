@@ -1,0 +1,92 @@
+{
+  "tickets": [
+    {
+      "title": "Navbar Feature - Login",
+      "description": "Build a logout button within navbar",
+      "assignee": "james",
+      "status": "pending",
+      "priority": 4,
+      "id": "1"
+    },
+    {
+      "id": "5",
+      "title": "Redesign User Dashboard",
+      "description": "Update the user dashboard to enhance UX/UI",
+      "assignee": "emma",
+      "status": "progress",
+      "priority": 7
+    },
+    {
+      "id": "6",
+      "title": "Add E2E Tests",
+      "description": "Write end-to-end tests for the checkout process",
+      "assignee": "oliver",
+      "status": "completed",
+      "priority": 1
+    },
+    {
+      "id": "7",
+      "title": "Integrate Real-Time Chat",
+      "description": "Add real-time chat functionality using WebSockets",
+      "assignee": "sophia",
+      "status": "pending",
+      "priority": 4
+    },
+    {
+      "id": "8",
+      "title": "Optimize Database Queries",
+      "description": "Optimize database queries for better performance",
+      "assignee": "liam",
+      "status": "progress",
+      "priority": 6
+    },
+    {
+      "id": "9",
+      "title": "Setup Docker Containers",
+      "description": "Containerize the application using Docker",
+      "assignee": "noah",
+      "status": "completed",
+      "priority": 8
+    },
+    {
+      "id": "10",
+      "title": "Implement OAuth2 Authentication",
+      "description": "Add OAuth2 authentication for third-party logins",
+      "assignee": "isabella",
+      "status": "pending",
+      "priority": 5
+    },
+    {
+      "id": "11",
+      "title": "Refactor API Endpoints",
+      "description": "Refactor and optimize existing API endpoints",
+      "assignee": "mason",
+      "status": "progress",
+      "priority": 3
+    },
+    {
+      "id": "12",
+      "title": "Improve SEO",
+      "description": "Enhance SEO by optimizing meta tags and content",
+      "assignee": "mia",
+      "status": "completed",
+      "priority": 2
+    },
+    {
+      "id": "13",
+      "title": "Set Up Monitoring and Alerts",
+      "description": "Implement monitoring and alerts for server performance",
+      "assignee": "lucas",
+      "status": "progress",
+      "priority": 7
+    },
+    {
+      "id": "14",
+      "title": "Migrate to GraphQL",
+      "description": "Migrate the REST API to GraphQL",
+      "assignee": "ava",
+      "status": "pending",
+      "priority": 9
+    }
+  ]
+}
